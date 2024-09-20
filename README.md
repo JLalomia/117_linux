@@ -24,22 +24,22 @@
 
 ## Top 10 GIT Commands
 
-1. git init
+1. git init - Initializes a new Git repository in the current directory
 
-2. git clone
+2. git clone - Copies a repository from a remote server to your local machine
 
-3. git add
+3. git add - Stages changes to be commited
 
-4. git status
+4. git status - Shows the status of your working directory, including staged, unstaged, and untracked files
 
-5. git commit
+5. git commit - Commits the staged changes with a descriptive message
 
-6. git push
+6. git push - Pushes the committed changes to a remote repository
 
-7. git pull
+7. git pull - Fetches and merges changes from a remote repository into your local branch
 
-8. git branch
+8. git branch - Lists, creates, or deletes branches
 
-9. git checkout
+9. git checkout - Switches to another branch or restores working files
 
-10. git merge
+10. git merge - Merges changes from one branch into the current branch
