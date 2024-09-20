@@ -29,3 +29,17 @@
 2. git clone
 
 3. git add
+
+4. git status
+
+5. git commit
+
+6. git push
+
+7. git pull
+
+8. git branch
+
+9. git checkout
+
+10. git merge
