@@ -2,25 +2,25 @@
 
 ## Top 10 Linux Commands
 
-1. mkdir
+1. mkdir - Creates a new directory
 
-2. cd
+2. cd - Changes the current directory
 
-3. ls
+3. ls - Lists the directory contents
 
-4. pwd
+4. pwd - Displays the current working directory
 
-5. rm
+5. rm - Removes files or directories
 
-6. chmod
+6. chmod - Changes file or directory permissions
 
-7. cp
+7. cp - Copies files or directories
 
-8. mv
+8. mv - Moves or renames files or directories
 
-9. touch
+9. touch - Creates an empty file or updates the timestamp of an existing file
 
-10. cat
+10. cat - Displays the content of a file or concatenates multiple files
 
 ## Top 10 GIT Commands
 
